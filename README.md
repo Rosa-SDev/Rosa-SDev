@@ -74,8 +74,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: December 2027
 
 ---
 
-### GitHub Stats
+### GitHub
 
-![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosa-SDev&show_icons=true&hide_border=true&count_private=false&include_all_commits=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-SDev&layout=compact&hide_border=true&langs_count=8)
+![Followers](https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=Rosa-SDev&style=for-the-badge&color=181717&label=Profile+Views)
