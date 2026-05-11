@@ -22,7 +22,7 @@ Estudiante de sexto semestre de Ingeniería de Sistemas con promedio acumulado d
 
 **Universidad de Ibagué** — Ibagué, Colombia  <br>
 *BSc in Systems Engineering* · Sixth semester  <br>
-Cumulative GPA: 4.4/5.0 · Expected Graduation: December 2027
+Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
 ---
 
