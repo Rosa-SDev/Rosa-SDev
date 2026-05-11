@@ -14,8 +14,6 @@ Bilingual Spanish/English (B2 certified by IELTS). Available for internships and
 
 Sixth-semester Systems Engineering student with a cumulative GPA of 4.4/5.0. My academic work emphasizes clean code practices, object-oriented design, SOLID principles, and software architecture. I have hands-on experience building full-stack applications, containerized environments, REST API integration, and version-controlled team projects following Git Flow methodology. Outside the technical scope, I bring approximately 1.5 years of professional experience in customer service and administrative support.
 
-Estudiante de sexto semestre de Ingeniería de Sistemas con promedio acumulado de 4.4/5.0. Mi formación académica se enfoca en buenas prácticas de código, diseño orientado a objetos, principios SOLID y arquitectura de software. Cuento con experiencia práctica desarrollando aplicaciones full-stack, entornos contenedorizados, integración de APIs REST y proyectos en equipo bajo metodología Git Flow. Adicionalmente, aporto aproximadamente 1.5 años de experiencia profesional en atención al cliente y soporte administrativo.
-
 ---
 
 ### Education
