@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>✨ Systems Engineering Student · Full-Stack Developer · Ibagué, Colombia 🇨🇴 ✨</em>
+  <em>✨ Systems Engineering Student · Full-Stack Developer · Ibagué, Colombia ✨</em>
 </p>
 
 <p align="center">
