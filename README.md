@@ -1,32 +1,39 @@
 <p align="center">
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="130" />
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%">
+
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="180">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=36&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Rosa+Isabel+Pe%C3%B1a+Yag%C3%BCe+%F0%9F%8C%B8" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  🌸 Rosa Isabel Peña Yagüe 🌸
+</h1>
 
 <p align="center">
   <em>✨ Systems Engineering Student · Full-Stack Developer · Ibagué, Colombia ✨</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+React+%F0%9F%8C%B8;Building+things+that+matter+%F0%9F%92%AB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F9A8D4&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React+%F0%9F%8C%B8;Building+things+that+matter+%F0%9F%92%AB;Always+learning%2C+always+growing+%F0%9F%8C%B1" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rosa-isabel-pena-y">
-    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png">
   </a>
   <a href="mailto:ripy36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png">
   </a>
   <a href="https://www.credly.com/users/rosa-isabel-pena-yague">
-    <img src="https://img.shields.io/badge/Credly-EC4899?style=for-the-badge&logo=credly&logoColor=black"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/certificate.png">
+  </a>
+  <a href="https://github.com/Rosa-SDev">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png">
   </a>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ### 🌸 About
 
@@ -36,7 +43,8 @@ Bilingual Spanish/English (B2 certified by IELTS). Available for internships and
 
 Sixth-semester student with a cumulative GPA of 4.4/5.0. My academic work emphasizes clean code practices, object-oriented design, SOLID principles, and software architecture. I have hands-on experience building full-stack applications, containerized environments, REST API integration, and version-controlled team projects following Git Flow methodology. Outside the technical scope, I bring approximately 1.5 years of professional experience in customer service and administrative support.
 
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🎀 Education
 
@@ -44,47 +52,46 @@ Sixth-semester student with a cumulative GPA of 4.4/5.0. My academic work emphas
 *BSc in Systems Engineering* · Sixth semester  <br>
 Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 
-#### Languages
-<span>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
+- **Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+  </a>
+</p>
 
-#### Frameworks & Libraries
-<span>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</span>
+- **Frameworks & Libraries**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,flask" />
+  </a>
+</p>
 
-#### Databases
-<span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
+- **Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </a>
+</p>
 
-#### Cloud & DevOps
-<span>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</span>
+- **Cloud & DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway" />
+  </a>
+</p>
 
-#### Tools
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</span>
+- 🛠️ **Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+  </a>
+</p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Currently Learning
 
@@ -93,7 +100,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 - **Spring Security & OAuth2** — Implementing secure authentication flows, including Google sign-in and role-based access control between clients and administrators.
 - **Cloud deployment & managed services** — Deploying backends on Railway with continuous integration from GitHub, and connecting to managed MySQL instances on Aiven.
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Certifications
 
@@ -102,7 +109,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 - **Academic English: How to Write an Essay (ACE101x)** · The University of Queensland — edX (November 2024)
 - **Foundations of Programming and Digital Technologies** · MinTIC Colombia & Technological University of Pereira (August 2022)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Featured Projects
 
@@ -111,7 +118,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 - **[CHATSITO](https://github.com/Rosa-SDev/CHATSITO)** — Real-time chat application built with WebSockets in JavaScript and HTML. Developed as part of the Software Engineering coursework.
 - **[Principio-SOLID](https://github.com/Rosa-SDev/Principio-SOLID)** — Web page explaining the Single Responsibility Principle from SOLID design principles. Built in HTML and CSS, deployed on Vercel.
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats
 
@@ -124,7 +131,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-SDev&layout=compact&title_color=F472B6&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6" height="200"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🐍 Contribution Activity
 
@@ -132,9 +139,14 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=black&labelColor=F472B6&color=EC4899"/>
   <img src="https://komarev.com/ghpvc/?username=Rosa-SDev&style=for-the-badge&color=F472B6&label=Profile+Views&labelColor=EC4899"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+  <em> <b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you! 🌸</b></em>
 </p>
