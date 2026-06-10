@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <em>✨ Systems Engineering Student · Full-Stack Developer · Ibagué, Colombia ✨</em>
+  <em>✨ Systems Engineering Student · Full-Stack Developer · Colombia ✨</em>
 </p>
 
 <p align="center">
@@ -34,96 +34,114 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## 🌸 About Me
 
-### 🌸 About
+🎓 Systems Engineering student at **Universidad de Ibagué** (GPA: **4.4/5.0**) passionate about building scalable and user-centered software.
 
-Systems Engineering student at Universidad de Ibagué, Colombia, with academic experience in Java, Python, and full-stack web development. Currently working on a Spring Boot + React e-commerce platform and expanding into databases, containerization, and cloud services with AWS.
+💻 Focused on **Java, Spring Boot, React, SQL, Docker, and AWS**, with experience developing full-stack applications, REST APIs, database integrations, and collaborative projects using Git Flow.
 
-Bilingual Spanish/English (B2 certified by IELTS). Available for internships and entry-level positions: on-site in Ibagué or Bogotá, hybrid, or fully remote.
-
-Sixth-semester student with a cumulative GPA of 4.4/5.0. My academic work emphasizes clean code practices, object-oriented design, SOLID principles, and software architecture. I have hands-on experience building full-stack applications, containerized environments, REST API integration, and version-controlled team projects following Git Flow methodology. Outside the technical scope, I bring approximately 1.5 years of professional experience in customer service and administrative support.
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🎀 Education
-
-**Universidad de Ibagué** — Ibagué, Colombia  <br>
-*BSc in Systems Engineering* · Sixth semester  <br>
-Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
+🌎 Bilingual (**Spanish / English — IELTS B2**) and currently seeking **internship and entry-level opportunities** in software development.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 
-- **Languages**
+### Languages
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-- **Frameworks & Libraries**
+### Frameworks & Libraries
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,flask" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring,react,flask" />
 </p>
 
-- **Databases**
+### Databases
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-- **Cloud & DevOps**
+### Cloud & DevOps
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway" />
 </p>
 
-- 🛠️ **Tools**
+### Tools
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- **Spring Boot** — Building REST APIs in Java with layered architecture, dependency injection, and Spring Data JPA/Hibernate for database access.
-- **React.js** — Component-based frontends, state management, and consuming REST APIs without full page reloads.
-- **Spring Security & OAuth2** — Implementing secure authentication flows, including Google sign-in and role-based access control between clients and administrators.
-- **Cloud deployment & managed services** — Deploying backends on Railway with continuous integration from GitHub, and connecting to managed MySQL instances on Aiven.
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## Certifications
-
-- **AWS Academy Graduate – Cloud Foundations** · Amazon Web Services (April 2026)
-- **Scrum Fundamentals Certified (SFC™)** · SCRUMstudy (May 2026)
-- **Academic English: How to Write an Essay (ACE101x)** · The University of Queensland — edX (November 2024)
-- **Foundations of Programming and Digital Technologies** · MinTIC Colombia & Technological University of Pereira (August 2022)
+- Spring Boot REST APIs with layered architecture and Spring Data JPA.
+- React.js for modern frontend development and API consumption.
+- Spring Security + OAuth2 authentication and authorization.
+- Cloud deployment, managed databases, and CI/CD workflows.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Featured Projects
+## 🏅 Certifications
 
-- **[Marketplace_Orquideas](https://github.com/Rosa-SDev/Marketplace_Orquideas)** — Full-semester team project: web marketplace developed for a family-owned orchid business. Spring Boot REST API backend, React frontend, MySQL database hosted on Aiven, OAuth2 authentication with Google sign-in via Spring Security, Wompi payment gateway integration for the Colombian market, and WhatsApp Business as a complementary contact channel. Deployed on Railway with continuous integration from GitHub.
-- **[FullStack-DevOps-Project](https://github.com/Rosa-SDev/FullStack-DevOps-Project)** — Multi-container web application deployed with Docker Compose. Stack: Flask API for querying database state, persistent PostgreSQL 15 storage via volume, and Adminer for database administration. Runs on Docker 24+ with Compose v2 over Linux or WSL2.
-- **[CHATSITO](https://github.com/Rosa-SDev/CHATSITO)** — Real-time chat application built with WebSockets in JavaScript and HTML. Developed as part of the Software Engineering coursework.
-- **[Principio-SOLID](https://github.com/Rosa-SDev/Principio-SOLID)** — Web page explaining the Single Responsibility Principle from SOLID design principles. Built in HTML and CSS, deployed on Vercel.
+- AWS Academy Graduate – Cloud Foundations (2026)
+- Scrum Fundamentals Certified (SFC™) (2026)
+- Academic English: How to Write an Essay — University of Queensland / edX (2024)
+- Foundations of Programming and Digital Technologies — MinTIC Colombia (2022)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats
+## 🚀 Featured Projects
+
+### 🌺 Marketplace_Orquideas
+Full-stack e-commerce platform developed for a family-owned orchid business.
+
+**Stack:** Spring Boot · React · MySQL · OAuth2 · Railway · Wompi
+
+🔗 https://github.com/Rosa-SDev/Marketplace_Orquideas
+
+---
+
+### 🐳 FullStack-DevOps-Project
+
+Multi-container application using Docker Compose.
+
+**Stack:** Flask · PostgreSQL · Docker · Adminer
+
+🔗 https://github.com/Rosa-SDev/FullStack-DevOps-Project
+
+---
+
+### 💬 CHATSITO
+
+Real-time chat application built with WebSockets.
+
+**Stack:** JavaScript · HTML · WebSockets
+
+🔗 https://github.com/Rosa-SDev/CHATSITO
+
+---
+
+### 📐 Principio-SOLID
+
+Educational website explaining the Single Responsibility Principle.
+
+**Stack:** HTML · CSS · Vercel
+
+🔗 https://github.com/Rosa-SDev/Principio-SOLID
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosa-SDev&show_icons=true&theme=radical&title_color=F472B6&icon_color=F9A8D4&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6&custom_title=Estadísticas%20de%20Rosa" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosa-SDev&show_icons=true&theme=radical&title_color=F472B6&icon_color=F9A8D4&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6&custom_title=Rosa's%20GitHub%20Stats" height="200"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosa-SDev&theme=radical&background=0d0d0d&ring=F472B6&fire=EC4899&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4&border=F472B6" height="200"/>
 </div>
 
@@ -133,20 +151,24 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Rosa-SDev/Rosa-SDev/output/github-contribution-grid-snake-pink.svg" alt="Snake animation"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=black&labelColor=F472B6&color=EC4899"/>
+
   <img src="https://komarev.com/ghpvc/?username=Rosa-SDev&style=for-the-badge&color=F472B6&label=Profile+Views&labelColor=EC4899"/>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-  <em> <b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you! 🌸</b></em>
+</p>
+
+<p align="center">
+  <em>🌸 Thanks for visiting my profile — let's build something amazing together! 🌸</em>
 </p>
