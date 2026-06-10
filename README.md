@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 🌸 About Me
 
@@ -42,7 +42,7 @@
 
 🌎 Bilingual (**Spanish / English — IELTS B2**) and currently seeking **internship and entry-level opportunities** in software development.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+------
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 
@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+-----
 
 ## 🌱 Currently Learning
 
@@ -85,7 +85,7 @@
 - Spring Security + OAuth2 authentication and authorization.
 - Cloud deployment, managed databases, and CI/CD workflows.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+-----
 
 ## 🏅 Certifications
 
@@ -94,7 +94,7 @@
 - Academic English: How to Write an Essay — University of Queensland / edX (2024)
 - Foundations of Programming and Digital Technologies — MinTIC Colombia (2022)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+-----
 
 ## 🚀 Featured Projects
 
@@ -135,7 +135,7 @@ Educational website explaining the Single Responsibility Principle.
 
 🔗 https://github.com/Rosa-SDev/Principio-SOLID
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+------
 
 ## 📊 GitHub Statistics
 
@@ -149,15 +149,15 @@ Educational website explaining the Single Responsibility Principle.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-SDev&layout=compact&title_color=F472B6&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6" height="200"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+------
 
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rosa-SDev/Rosa-SDev/output/github-contribution-grid-snake-pink.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Rosa-SDev/Rosa-SDev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+----
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=black&labelColor=F472B6&color=EC4899"/>
