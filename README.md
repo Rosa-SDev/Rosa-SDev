@@ -1,22 +1,44 @@
-## Rosa Isabel Peña Yagüe
+<p align="center">
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="130" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=36&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Rosa+Isabel+Pe%C3%B1a+Yag%C3%BCe+%F0%9F%8C%B8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>✨ Systems Engineering Student · Full-Stack Developer · Ibagué, Colombia 🇨🇴 ✨</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+React+%F0%9F%8C%B8;Building+things+that+matter+%F0%9F%92%AB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rosa-isabel-pena-y">
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:ripy36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.credly.com/users/rosa-isabel-pena-yague">
+    <img src="https://img.shields.io/badge/Credly-EC4899?style=for-the-badge&logo=credly&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 🌸 About
 
 Systems Engineering student at Universidad de Ibagué, Colombia, with academic experience in Java, Python, and full-stack web development. Currently working on a Spring Boot + React e-commerce platform and expanding into databases, containerization, and cloud services with AWS.
 
 Bilingual Spanish/English (B2 certified by IELTS). Available for internships and entry-level positions: on-site in Ibagué or Bogotá, hybrid, or fully remote.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosa-isabel-pena-y)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ripy36@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rosa-isabel-pena-yague)
+Sixth-semester student with a cumulative GPA of 4.4/5.0. My academic work emphasizes clean code practices, object-oriented design, SOLID principles, and software architecture. I have hands-on experience building full-stack applications, containerized environments, REST API integration, and version-controlled team projects following Git Flow methodology. Outside the technical scope, I bring approximately 1.5 years of professional experience in customer service and administrative support.
 
 ---
 
-### About
-
-Sixth-semester Systems Engineering student with a cumulative GPA of 4.4/5.0. My academic work emphasizes clean code practices, object-oriented design, SOLID principles, and software architecture. I have hands-on experience building full-stack applications, containerized environments, REST API integration, and version-controlled team projects following Git Flow methodology. Outside the technical scope, I bring approximately 1.5 years of professional experience in customer service and administrative support.
-
----
-
-### Education
+### 🎀 Education
 
 **Universidad de Ibagué** — Ibagué, Colombia  <br>
 *BSc in Systems Engineering* · Sixth semester  <br>
@@ -64,7 +86,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
 ---
 
-### Currently Learning
+## Currently Learning
 
 - **Spring Boot** — Building REST APIs in Java with layered architecture, dependency injection, and Spring Data JPA/Hibernate for database access.
 - **React.js** — Component-based frontends, state management, and consuming REST APIs without full page reloads.
@@ -73,7 +95,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
 ---
 
-### Certifications
+## Certifications
 
 - **AWS Academy Graduate – Cloud Foundations** · Amazon Web Services (April 2026)
 - **Scrum Fundamentals Certified (SFC™)** · SCRUMstudy (May 2026)
@@ -82,7 +104,7 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 - **[Marketplace_Orquideas](https://github.com/Rosa-SDev/Marketplace_Orquideas)** — Full-semester team project: web marketplace developed for a family-owned orchid business. Spring Boot REST API backend, React frontend, MySQL database hosted on Aiven, OAuth2 authentication with Google sign-in via Spring Security, Wompi payment gateway integration for the Colombian market, and WhatsApp Business as a complementary contact channel. Deployed on Railway with continuous integration from GitHub.
 - **[FullStack-DevOps-Project](https://github.com/Rosa-SDev/FullStack-DevOps-Project)** — Multi-container web application deployed with Docker Compose. Stack: Flask API for querying database state, persistent PostgreSQL 15 storage via volume, and Adminer for database administration. Runs on Docker 24+ with Compose v2 over Linux or WSL2.
@@ -94,12 +116,25 @@ Cumulative GPA: 4.4/5.0 · Expected Graduation: March 2028
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosa-SDev&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Rosa" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosa-SDev&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-SDev&layout=compact&theme=tokyonight&hide_border=false" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosa-SDev&show_icons=true&theme=radical&title_color=F472B6&icon_color=F9A8D4&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6&custom_title=Estadísticas%20de%20Rosa" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosa-SDev&theme=radical&background=0d0d0d&ring=F472B6&fire=EC4899&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4&border=F472B6" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosa-SDev&layout=compact&title_color=F472B6&text_color=F9A8D4&bg_color=0d0d0d&border_color=F472B6" height="200"/>
 </div>
 
 ---
 
-![Followers](https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)
-![Profile Views](https://komarev.com/ghpvc/?username=Rosa-SDev&style=for-the-badge&color=181717&label=Profile+Views)
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rosa-SDev?style=for-the-badge&logo=github&logoColor=black&labelColor=F472B6&color=EC4899"/>
+  <img src="https://komarev.com/ghpvc/?username=Rosa-SDev&style=for-the-badge&color=F472B6&label=Profile+Views&labelColor=EC4899"/>
+</p>
