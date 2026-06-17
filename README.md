@@ -78,11 +78,13 @@
   <a href="https://www.credly.com/badges/1fce6e3e-3b6a-4d2c-8bd4-dac4b6a1133f"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-F9A8D4?style=for-the-badge&logo=amazonwebservices&logoColor=0d0d0d&labelColor=FBCFE8" alt="AWS Cloud Foundations"/></a>
   <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1163393"><img src="https://img.shields.io/badge/SCRUMstudy-Scrum_Fundamentals-F9A8D4?style=for-the-badge&logo=scrumalliance&logoColor=0d0d0d&labelColor=FBCFE8" alt="Scrum Fundamentals Certified"/></a>
   <a href="https://courses.edx.org/certificates/c69c711359154be297be036e7e0d2af8"><img src="https://img.shields.io/badge/edX-Academic_English-F9A8D4?style=for-the-badge&logo=edx&logoColor=0d0d0d&labelColor=FBCFE8" alt="Academic English edX"/></a>
+  <a href="https://www.credly.com/badges/9ff91c61-e49a-4f2b-8c75-e83cecc25cba"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-F9A8D4?style=for-the-badge&logo=microsoft&logoColor=0d0d0d&labelColor=FBCFE8" alt="Microsoft AI Skills Fest 2026"/></a>
 </p>
 
 - **AWS Academy Graduate – Cloud Foundations** · AWS Academy · 2026 · [Verify](https://www.credly.com/badges/1fce6e3e-3b6a-4d2c-8bd4-dac4b6a1133f)
 - **Scrum Fundamentals Certified (SFC™)** · SCRUMstudy · 2026 · [Verify](https://www.scrumstudy.com/certification/verify?type=SFC&number=1163393)
 - **Academic English: How to Write an Essay** · University of Queensland / edX · 2024 · [Verify](https://courses.edx.org/certificates/c69c711359154be297be036e7e0d2af8)
+- **AI Skills Fest 2026** · Microsoft · 2026 · [Verify](https://www.credly.com/badges/9ff91c61-e49a-4f2b-8c75-e83cecc25cba)
 - **Foundations of Programming and Digital Technologies** · MinTIC Colombia · 2022
 
 ---
