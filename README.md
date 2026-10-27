@@ -40,6 +40,7 @@
 | 🍽️ **[Restaurante Microservicios](https://github.com/Rosa-SDev/restaurante-microservicios)** | Restaurant management system split into Spring Boot microservices. My part: API Gateway with JWT validation and role-based access, Dockerfile, security tests and API documentation. | Spring Boot · Spring Cloud Gateway · Docker · Kubernetes |
 | 🕯️ **[Kandela](https://github.com/Rosa-SDev/kandela)** *(in progress)* | Restaurant suite on top of those microservices: Angular admin, React POS and kitchen display. My part: orders and tables admin, reservations flow and backend services. | Angular · React · TypeScript · Spring Boot |
 | 🐳 **[FullStack DevOps Project](https://github.com/Rosa-SDev/FullStack-DevOps-Project)** | Multi-container app with Docker Compose; image published on Docker Hub. | Python · Flask · PostgreSQL · Docker |
+| 📚 **[Book Rating Analysis](https://github.com/Rosa-SDev/book-rating-analysis)** | Data analysis of the Book-Crossing dataset: ETL, exploratory analysis and scikit-learn models compared against baselines. Pair academic project; I wrote all the code. | Python · pandas · scikit-learn · matplotlib |
 
 ---
 
