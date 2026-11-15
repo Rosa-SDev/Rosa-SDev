@@ -24,7 +24,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&duration=1&pause=99999&color=F9A8D4&vCenter=true&width=240&height=50&lines=About+Me" alt="About Me" />
 
-- 🎓 Systems Engineering student at **Universidad de Ibagué** (GPA **4.4/5.0**).
+- 🎓 Systems Engineering student at **Universidad de Ibagué**.
 - 💻 Focused on **backend development with Java and Spring Boot**: REST APIs, Spring Security with OAuth2/JWT, JPA, microservices behind an API Gateway, and Docker.
 - 🧪 I write unit and controller tests (JUnit 5, Mockito, `@WebMvcTest`) and work in teams with Git Flow, pull requests and Conventional Commits.
 - 🌎 Bilingual: **Spanish / English (IELTS B2)**.
@@ -75,7 +75,6 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&duration=1&pause=99999&color=F9A8D4&vCenter=true&width=360&height=50&lines=Currently+Learning" alt="Currently Learning" />
 
-- ☁️ **AWS Academy Cloud Developing**: building and deploying applications on AWS.
 - 📊 **Google Data Analytics Professional Certificate** (Coursera).
 - 🧩 Angular and TypeScript for frontend modules.
 - 🔁 CI/CD with GitHub Actions.
@@ -86,11 +85,13 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/1fce6e3e-3b6a-4d2c-8bd4-dac4b6a1133f"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-F9A8D4?style=for-the-badge&logo=amazonwebservices&logoColor=0d0d0d&labelColor=FBCFE8" alt="AWS Cloud Foundations"/></a>
+  <a href="https://www.credly.com/badges/77c4de75-d4bc-49ce-b64d-c4ff3363ea16"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-F9A8D4?style=for-the-badge&logo=amazonwebservices&logoColor=0d0d0d&labelColor=FBCFE8" alt="AWS Cloud Developing"/></a>
   <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1163393"><img src="https://img.shields.io/badge/SCRUMstudy-Scrum_Fundamentals-F9A8D4?style=for-the-badge&logo=scrumalliance&logoColor=0d0d0d&labelColor=FBCFE8" alt="Scrum Fundamentals Certified"/></a>
   <a href="https://courses.edx.org/certificates/c69c711359154be297be036e7e0d2af8"><img src="https://img.shields.io/badge/edX-Academic_English-F9A8D4?style=for-the-badge&logo=edx&logoColor=0d0d0d&labelColor=FBCFE8" alt="Academic English edX"/></a>
   <a href="https://www.credly.com/badges/9ff91c61-e49a-4f2b-8c75-e83cecc25cba"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-F9A8D4?style=for-the-badge&logo=microsoft&logoColor=0d0d0d&labelColor=FBCFE8" alt="Microsoft AI Skills Fest 2026"/></a>
 </p>
 
+- **AWS Academy Graduate – Cloud Developing** · AWS Academy · 2026 · Lambda, API Gateway, DynamoDB, S3, Cognito, CI/CD · [Verify](https://www.credly.com/badges/77c4de75-d4bc-49ce-b64d-c4ff3363ea16)
 - **AWS Academy Graduate – Cloud Foundations** · AWS Academy · 2026 · [Verify](https://www.credly.com/badges/1fce6e3e-3b6a-4d2c-8bd4-dac4b6a1133f)
 - **Scrum Fundamentals Certified (SFC™)** · SCRUMstudy · 2026 · [Verify](https://www.scrumstudy.com/certification/verify?type=SFC&number=1163393)
 - **Academic English: How to Write an Essay** · University of Queensland / edX · 2024 · [Verify](https://courses.edx.org/certificates/c69c711359154be297be036e7e0d2af8)
